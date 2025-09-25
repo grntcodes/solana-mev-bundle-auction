@@ -39,3 +39,4 @@
 // Update at 2025-10-09 13:32:28: refactor: clean up pool initialization logic
 // Update at 2025-10-13 23:28:05: fix: resolve slippage calculation edge case
 // Update at 2025-09-26 05:37:13: feat: add multi-hop swap support
+// Update at 2025-09-25 14:11:18: perf: optimize CPI calls
