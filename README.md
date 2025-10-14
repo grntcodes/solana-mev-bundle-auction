@@ -37,3 +37,4 @@
 - Formal verification with SAIL
 - $500k bug bounty program
 // Update at 2025-10-09 13:32:28: refactor: clean up pool initialization logic
+// Update at 2025-10-13 23:28:05: fix: resolve slippage calculation edge case
